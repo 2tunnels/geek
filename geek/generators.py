@@ -21,4 +21,7 @@ class Generator:
         self._providers.append(provider_class(self._random))
 
     def get_random_character(self) -> str:
+        if not self._providers:
+            raise RuntimeError('No provider added')
+
         return self._random.choice(self._providers).get_random_character()
