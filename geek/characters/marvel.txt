@@ -129,7 +129,6 @@ Black Tarantula
 Black Tom
 Black Widow
 Black Widow (LEGO Marvel Super Heroes)
-Black Widow/Natasha Romanoff (MAA)
 Black Widow (Ultimate)
 Blade
 Blastaar
@@ -188,7 +187,6 @@ Captain America (House of M)
 Captain America (LEGO Marvel Super Heroes)
 Captain America (Marvel War of Heroes)
 Captain America (Sam Wilson)
-Captain America/Steve Rogers (MAA)
 Captain America (Ultimate)
 Captain Britain
 Captain Britain (Ultimate)
@@ -383,7 +381,6 @@ Ezekiel
 Ezekiel Stane
 Fabian Cortez
 Falcon
-Falcon/Sam Wilson (MAA)
 Fallen One
 Famine
 Fantastic Four
@@ -492,7 +489,6 @@ Harry Osborn (Ultimate)
 Hate-Monger (Adolf Hitler)
 Havok
 Hawkeye
-Hawkeye/Clint Barton (MAA)
 Hawkeye (Kate Bishop)
 Hawkeye (Marvel Heroes)
 Hawkeye (Ultimate)
@@ -523,7 +519,6 @@ Hope Summers
 Howard Saint
 Howard The Duck
 Hulk
-Hulk/Bruce Banner (MAA)
 Hulk-dok
 Hulk (HAS)
 Hulk (LEGO Marvel Super Heroes)
@@ -577,7 +572,6 @@ Iron Man (Iron Man 3 - The Official Game)
 Iron Man (LEGO Marvel Super Heroes)
 Iron Man (Marvel Heroes)
 Iron Man (Marvel War of Heroes)
-Iron Man/Tony Stark (MAA)
 Iron Man (Ultimate)
 Iron Monger
 Iron Patriot
@@ -795,7 +789,6 @@ Meteorite
 MI: 13
 Microbe
 Microchip
-Micro/Macro
 Micromax
 Midnight (Earth-811)
 Miek
