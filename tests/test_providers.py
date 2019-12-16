@@ -2,6 +2,7 @@ from geek.providers import MarvelProvider
 
 
 def test_marvel_provider():
-    characters = MarvelProvider().get_characters()
+    provider = MarvelProvider(1)
 
-    assert len(characters) == 1251
+    assert len(provider.characters) == 1251
+    assert provider.get_random_character() == 'doctor-strange'
