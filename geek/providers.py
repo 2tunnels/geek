@@ -1,13 +1,18 @@
 from pathlib import Path
 from random import Random
-from typing import Optional
+from typing import Union, Optional
 
 from .utils import normalize_name
 
+generator_or_seed = Union[Path, int]
+
 
 class Provider:
-    def __init__(self, x: Optional[int] = None):
-        self._random = Random(x)
+    def __init__(self, x: Optional[generator_or_seed] = None):
+        if isinstance(x, Random):
+            self._random = x
+        else:
+            self._random = Random(x)
 
     @property
     def characters(self):
