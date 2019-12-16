@@ -12,6 +12,9 @@ python-slugify = "^4.0.0"
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.2"
 
+[tool.poetry.scripts]
+geek = 'geek.console:run'
+
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
