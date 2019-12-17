@@ -15,6 +15,8 @@ class Generator:
             self._random = Random(x)
 
         self._providers: List[Provider] = []
+
+        # Shamelessly stolen from https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
         self._adjectives: List[str] = [
             'admiring',
             'adoring',

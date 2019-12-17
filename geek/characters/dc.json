@@ -1,0 +1,714 @@
+[
+    {
+        "name": "alfred pennyworth",
+        "url": "https://www.dccomics.com/characters/alfred-pennyworth"
+    },
+    {
+        "name": "amanda waller",
+        "url": "https://www.dccomics.com/characters/amanda-waller"
+    },
+    {
+        "name": "amethyst",
+        "url": "https://www.dccomics.com/characters/amethyst"
+    },
+    {
+        "name": "anarky",
+        "url": "https://www.dccomics.com/characters/anarky"
+    },
+    {
+        "name": "anti-monitor",
+        "url": "https://www.dccomics.com/characters/anti-monitor"
+    },
+    {
+        "name": "aquaman",
+        "url": "https://www.dccomics.com/characters/aquaman"
+    },
+    {
+        "name": "ares",
+        "url": "https://www.dccomics.com/characters/ares"
+    },
+    {
+        "name": "arsenal",
+        "url": "https://www.dccomics.com/characters/arsenal"
+    },
+    {
+        "name": "atlanna",
+        "url": "https://www.dccomics.com/characters/atlanna"
+    },
+    {
+        "name": "atom",
+        "url": "https://www.dccomics.com/characters/atom"
+    },
+    {
+        "name": "atrocitus",
+        "url": "https://www.dccomics.com/characters/atrocitus"
+    },
+    {
+        "name": "bane",
+        "url": "https://www.dccomics.com/characters/bane"
+    },
+    {
+        "name": "batgirl",
+        "url": "https://www.dccomics.com/characters/batgirl"
+    },
+    {
+        "name": "batman",
+        "url": "https://www.dccomics.com/characters/batman"
+    },
+    {
+        "name": "batwoman",
+        "url": "https://www.dccomics.com/characters/batwoman"
+    },
+    {
+        "name": "beast boy",
+        "url": "https://www.dccomics.com/characters/beast-boy"
+    },
+    {
+        "name": "big barda",
+        "url": "https://www.dccomics.com/characters/big-barda"
+    },
+    {
+        "name": "birds of prey",
+        "url": "https://www.dccomics.com/characters/birds-of-prey"
+    },
+    {
+        "name": "bizarro",
+        "url": "https://www.dccomics.com/characters/bizarro"
+    },
+    {
+        "name": "black adam",
+        "url": "https://www.dccomics.com/characters/black-adam"
+    },
+    {
+        "name": "black canary",
+        "url": "https://www.dccomics.com/characters/black-canary"
+    },
+    {
+        "name": "black lightning",
+        "url": "https://www.dccomics.com/characters/black-lightning"
+    },
+    {
+        "name": "black manta",
+        "url": "https://www.dccomics.com/characters/black-manta"
+    },
+    {
+        "name": "blue beetle",
+        "url": "https://www.dccomics.com/characters/blue-beetle"
+    },
+    {
+        "name": "booster gold",
+        "url": "https://www.dccomics.com/characters/booster-gold"
+    },
+    {
+        "name": "zatanna",
+        "url": "https://www.dccomics.com/characters/zatanna"
+    },
+    {
+        "name": "zod",
+        "url": "https://www.dccomics.com/characters/zod"
+    },
+    {
+        "name": "zoom",
+        "url": "https://www.dccomics.com/characters/zoom"
+    },
+    {
+        "name": "earth-15",
+        "url": "https://www.dccomics.com/characters/earth-15"
+    },
+    {
+        "name": "earth-16",
+        "url": "https://www.dccomics.com/characters/earth-16"
+    },
+    {
+        "name": "earth-17",
+        "url": "https://www.dccomics.com/characters/earth-17"
+    },
+    {
+        "name": "earth-18",
+        "url": "https://www.dccomics.com/characters/earth-18"
+    },
+    {
+        "name": "earth-19",
+        "url": "https://www.dccomics.com/characters/earth-19"
+    },
+    {
+        "name": "earth-2",
+        "url": "https://www.dccomics.com/characters/earth-2"
+    },
+    {
+        "name": "earth-20",
+        "url": "https://www.dccomics.com/characters/earth-20"
+    },
+    {
+        "name": "earth-21",
+        "url": "https://www.dccomics.com/characters/earth-21"
+    },
+    {
+        "name": "earth-22",
+        "url": "https://www.dccomics.com/characters/earth-22"
+    },
+    {
+        "name": "earth-23",
+        "url": "https://www.dccomics.com/characters/earth-23"
+    },
+    {
+        "name": "earth-26",
+        "url": "https://www.dccomics.com/characters/earth-26"
+    },
+    {
+        "name": "earth-29",
+        "url": "https://www.dccomics.com/characters/earth-29"
+    },
+    {
+        "name": "earth-3",
+        "url": "https://www.dccomics.com/characters/earth-3"
+    },
+    {
+        "name": "earth-30",
+        "url": "https://www.dccomics.com/characters/earth-30"
+    },
+    {
+        "name": "earth-31",
+        "url": "https://www.dccomics.com/characters/earth-31"
+    },
+    {
+        "name": "earth-32",
+        "url": "https://www.dccomics.com/characters/earth-32"
+    },
+    {
+        "name": "earth-33",
+        "url": "https://www.dccomics.com/characters/earth-33"
+    },
+    {
+        "name": "earth-34",
+        "url": "https://www.dccomics.com/characters/earth-34"
+    },
+    {
+        "name": "earth-35",
+        "url": "https://www.dccomics.com/characters/earth-35"
+    },
+    {
+        "name": "earth-36",
+        "url": "https://www.dccomics.com/characters/earth-36"
+    },
+    {
+        "name": "earth-37",
+        "url": "https://www.dccomics.com/characters/earth-37"
+    },
+    {
+        "name": "earth-38",
+        "url": "https://www.dccomics.com/characters/earth-38"
+    },
+    {
+        "name": "earth-39",
+        "url": "https://www.dccomics.com/characters/earth-39"
+    },
+    {
+        "name": "earth-4",
+        "url": "https://www.dccomics.com/characters/earth-4"
+    },
+    {
+        "name": "earth-40",
+        "url": "https://www.dccomics.com/characters/earth-40"
+    },
+    {
+        "name": "earth-41",
+        "url": "https://www.dccomics.com/characters/earth-41"
+    },
+    {
+        "name": "earth-42",
+        "url": "https://www.dccomics.com/characters/earth-42"
+    },
+    {
+        "name": "earth-43",
+        "url": "https://www.dccomics.com/characters/earth-43"
+    },
+    {
+        "name": "earth-44",
+        "url": "https://www.dccomics.com/characters/earth-44"
+    },
+    {
+        "name": "earth-45",
+        "url": "https://www.dccomics.com/characters/earth-45"
+    },
+    {
+        "name": "earth-47",
+        "url": "https://www.dccomics.com/characters/earth-47"
+    },
+    {
+        "name": "earth-48",
+        "url": "https://www.dccomics.com/characters/earth-48"
+    },
+    {
+        "name": "earth-5",
+        "url": "https://www.dccomics.com/characters/earth-5"
+    },
+    {
+        "name": "earth-50",
+        "url": "https://www.dccomics.com/characters/earth-50"
+    },
+    {
+        "name": "earth-51",
+        "url": "https://www.dccomics.com/characters/earth-51"
+    },
+    {
+        "name": "earth-6",
+        "url": "https://www.dccomics.com/characters/earth-6"
+    },
+    {
+        "name": "earth-7",
+        "url": "https://www.dccomics.com/characters/earth-7"
+    },
+    {
+        "name": "earth-8",
+        "url": "https://www.dccomics.com/characters/earth-8"
+    },
+    {
+        "name": "earth-9",
+        "url": "https://www.dccomics.com/characters/earth-9"
+    },
+    {
+        "name": "el diablo",
+        "url": "https://www.dccomics.com/characters/el-diablo"
+    },
+    {
+        "name": "enchantress",
+        "url": "https://www.dccomics.com/characters/enchantress"
+    },
+    {
+        "name": "eve coffin",
+        "url": "https://www.dccomics.com/characters/eve-coffin"
+    },
+    {
+        "name": "fbp: federal bureau of physics",
+        "url": "https://www.dccomics.com/characters/fbp-federal-bureau-of-physics"
+    },
+    {
+        "name": "firestorm",
+        "url": "https://www.dccomics.com/characters/firestorm"
+    },
+    {
+        "name": "gorilla grodd",
+        "url": "https://www.dccomics.com/characters/gorilla-grodd"
+    },
+    {
+        "name": "green arrow",
+        "url": "https://www.dccomics.com/characters/green-arrow"
+    },
+    {
+        "name": "green lantern",
+        "url": "https://www.dccomics.com/characters/green-lantern"
+    },
+    {
+        "name": "green lantern corps",
+        "url": "https://www.dccomics.com/characters/green-lantern-corps"
+    },
+    {
+        "name": "h.i.v.e.",
+        "url": "https://www.dccomics.com/characters/hive"
+    },
+    {
+        "name": "harley quinn",
+        "url": "https://www.dccomics.com/characters/harley-quinn"
+    },
+    {
+        "name": "brainiac",
+        "url": "https://www.dccomics.com/characters/brainiac"
+    },
+    {
+        "name": "captain boomerang",
+        "url": "https://www.dccomics.com/characters/captain-boomerang"
+    },
+    {
+        "name": "captain cold",
+        "url": "https://www.dccomics.com/characters/captain-cold"
+    },
+    {
+        "name": "captain marvel jr.",
+        "url": "https://www.dccomics.com/characters/captain-marvel-jr"
+    },
+    {
+        "name": "catwoman",
+        "url": "https://www.dccomics.com/characters/catwoman"
+    },
+    {
+        "name": "clayface",
+        "url": "https://www.dccomics.com/characters/clayface"
+    },
+    {
+        "name": "commissioner james gordon",
+        "url": "https://www.dccomics.com/characters/commissioner-james-gordon"
+    },
+    {
+        "name": "cyborg",
+        "url": "https://www.dccomics.com/characters/cyborg"
+    },
+    {
+        "name": "damien darhk",
+        "url": "https://www.dccomics.com/characters/damien-darhk"
+    },
+    {
+        "name": "darkseid",
+        "url": "https://www.dccomics.com/characters/darkseid"
+    },
+    {
+        "name": "dead boy detectives",
+        "url": "https://www.dccomics.com/characters/dead-boy-detectives"
+    },
+    {
+        "name": "deadman",
+        "url": "https://www.dccomics.com/characters/deadman"
+    },
+    {
+        "name": "deadshot",
+        "url": "https://www.dccomics.com/characters/deadshot"
+    },
+    {
+        "name": "deathstroke",
+        "url": "https://www.dccomics.com/characters/deathstroke"
+    },
+    {
+        "name": "deimos",
+        "url": "https://www.dccomics.com/characters/deimos"
+    },
+    {
+        "name": "doctor sivana",
+        "url": "https://www.dccomics.com/characters/doctor-sivana"
+    },
+    {
+        "name": "donna troy",
+        "url": "https://www.dccomics.com/characters/donna-troy"
+    },
+    {
+        "name": "doom patrol",
+        "url": "https://www.dccomics.com/characters/doom-patrol"
+    },
+    {
+        "name": "doomsday",
+        "url": "https://www.dccomics.com/characters/doomsday"
+    },
+    {
+        "name": "earth-0",
+        "url": "https://www.dccomics.com/characters/earth-0"
+    },
+    {
+        "name": "earth-1",
+        "url": "https://www.dccomics.com/characters/earth-1"
+    },
+    {
+        "name": "earth-10",
+        "url": "https://www.dccomics.com/characters/earth-10"
+    },
+    {
+        "name": "earth-11",
+        "url": "https://www.dccomics.com/characters/earth-11"
+    },
+    {
+        "name": "earth-12",
+        "url": "https://www.dccomics.com/characters/earth-12"
+    },
+    {
+        "name": "earth-13",
+        "url": "https://www.dccomics.com/characters/earth-13"
+    },
+    {
+        "name": "midnighter",
+        "url": "https://www.dccomics.com/characters/midnighter"
+    },
+    {
+        "name": "mister freeze",
+        "url": "https://www.dccomics.com/characters/mister-freeze"
+    },
+    {
+        "name": "mister miracle",
+        "url": "https://www.dccomics.com/characters/mister-miracle"
+    },
+    {
+        "name": "mister terrific",
+        "url": "https://www.dccomics.com/characters/mister-terrific"
+    },
+    {
+        "name": "morpheus",
+        "url": "https://www.dccomics.com/characters/morpheus"
+    },
+    {
+        "name": "nereus",
+        "url": "https://www.dccomics.com/characters/nereus"
+    },
+    {
+        "name": "new gods",
+        "url": "https://www.dccomics.com/characters/new-gods"
+    },
+    {
+        "name": "nightwing",
+        "url": "https://www.dccomics.com/characters/nightwing"
+    },
+    {
+        "name": "nuidis vulko",
+        "url": "https://www.dccomics.com/characters/nuidis-vulko"
+    },
+    {
+        "name": "ocean master",
+        "url": "https://www.dccomics.com/characters/ocean-master"
+    },
+    {
+        "name": "pandora",
+        "url": "https://www.dccomics.com/characters/pandora"
+    },
+    {
+        "name": "penguin",
+        "url": "https://www.dccomics.com/characters/penguin"
+    },
+    {
+        "name": "plastic man",
+        "url": "https://www.dccomics.com/characters/plastic-man"
+    },
+    {
+        "name": "poison ivy",
+        "url": "https://www.dccomics.com/characters/poison-ivy"
+    },
+    {
+        "name": "ra's al ghul",
+        "url": "https://www.dccomics.com/characters/ras-al-ghul"
+    },
+    {
+        "name": "raven",
+        "url": "https://www.dccomics.com/characters/raven"
+    },
+    {
+        "name": "reverse-flash",
+        "url": "https://www.dccomics.com/characters/reverse-flash"
+    },
+    {
+        "name": "rick flag",
+        "url": "https://www.dccomics.com/characters/rick-flag"
+    },
+    {
+        "name": "riddler",
+        "url": "https://www.dccomics.com/characters/riddler"
+    },
+    {
+        "name": "rip hunter",
+        "url": "https://www.dccomics.com/characters/rip-hunter"
+    },
+    {
+        "name": "robin",
+        "url": "https://www.dccomics.com/characters/robin"
+    },
+    {
+        "name": "scarecrow",
+        "url": "https://www.dccomics.com/characters/scarecrow"
+    },
+    {
+        "name": "seven deadly sins",
+        "url": "https://www.dccomics.com/characters/seven-deadly-sins"
+    },
+    {
+        "name": "shazam",
+        "url": "https://www.dccomics.com/characters/shazam"
+    },
+    {
+        "name": "shazam family",
+        "url": "https://www.dccomics.com/characters/shazam-family"
+    },
+    {
+        "name": "harvey bullock",
+        "url": "https://www.dccomics.com/characters/harvey-bullock"
+    },
+    {
+        "name": "hawk and dove",
+        "url": "https://www.dccomics.com/characters/hawk-and-dove"
+    },
+    {
+        "name": "hawkgirl",
+        "url": "https://www.dccomics.com/characters/hawkgirl"
+    },
+    {
+        "name": "hawkman",
+        "url": "https://www.dccomics.com/characters/hawkman"
+    },
+    {
+        "name": "heat wave",
+        "url": "https://www.dccomics.com/characters/heat-wave"
+    },
+    {
+        "name": "hinterkind",
+        "url": "https://www.dccomics.com/characters/hinterkind"
+    },
+    {
+        "name": "jay garrick",
+        "url": "https://www.dccomics.com/characters/jay-garrick"
+    },
+    {
+        "name": "jesse custer",
+        "url": "https://www.dccomics.com/characters/jesse-custer"
+    },
+    {
+        "name": "jimmy olsen",
+        "url": "https://www.dccomics.com/characters/jimmy-olsen"
+    },
+    {
+        "name": "john constantine",
+        "url": "https://www.dccomics.com/characters/john-constantine"
+    },
+    {
+        "name": "joker",
+        "url": "https://www.dccomics.com/characters/joker"
+    },
+    {
+        "name": "justice league",
+        "url": "https://www.dccomics.com/characters/justice-league"
+    },
+    {
+        "name": "katana",
+        "url": "https://www.dccomics.com/characters/katana"
+    },
+    {
+        "name": "killer croc",
+        "url": "https://www.dccomics.com/characters/killer-croc"
+    },
+    {
+        "name": "killer frost",
+        "url": "https://www.dccomics.com/characters/killer-frost"
+    },
+    {
+        "name": "krypto",
+        "url": "https://www.dccomics.com/characters/krypto"
+    },
+    {
+        "name": "lex luthor",
+        "url": "https://www.dccomics.com/characters/lex-luthor"
+    },
+    {
+        "name": "lobo",
+        "url": "https://www.dccomics.com/characters/lobo"
+    },
+    {
+        "name": "lois lane",
+        "url": "https://www.dccomics.com/characters/lois-lane"
+    },
+    {
+        "name": "lucifer",
+        "url": "https://www.dccomics.com/characters/lucifer"
+    },
+    {
+        "name": "lucius fox",
+        "url": "https://www.dccomics.com/characters/lucius-fox"
+    },
+    {
+        "name": "martian manhunter",
+        "url": "https://www.dccomics.com/characters/martian-manhunter"
+    },
+    {
+        "name": "mary marvel",
+        "url": "https://www.dccomics.com/characters/mary-marvel"
+    },
+    {
+        "name": "maxwell lord",
+        "url": "https://www.dccomics.com/characters/maxwell-lord"
+    },
+    {
+        "name": "mera",
+        "url": "https://www.dccomics.com/characters/mera"
+    },
+    {
+        "name": "sinestro",
+        "url": "https://www.dccomics.com/characters/sinestro"
+    },
+    {
+        "name": "solomon grundy",
+        "url": "https://www.dccomics.com/characters/solomon-grundy"
+    },
+    {
+        "name": "starfire",
+        "url": "https://www.dccomics.com/characters/starfire"
+    },
+    {
+        "name": "stephen shin",
+        "url": "https://www.dccomics.com/characters/stephen-shin"
+    },
+    {
+        "name": "steppenwolf",
+        "url": "https://www.dccomics.com/characters/steppenwolf"
+    },
+    {
+        "name": "steve trevor",
+        "url": "https://www.dccomics.com/characters/steve-trevor"
+    },
+    {
+        "name": "suicide squad",
+        "url": "https://www.dccomics.com/characters/suicide-squad"
+    },
+    {
+        "name": "superboy",
+        "url": "https://www.dccomics.com/characters/superboy"
+    },
+    {
+        "name": "supergirl",
+        "url": "https://www.dccomics.com/characters/supergirl"
+    },
+    {
+        "name": "superman",
+        "url": "https://www.dccomics.com/characters/superman"
+    },
+    {
+        "name": "swamp thing",
+        "url": "https://www.dccomics.com/characters/swamp-thing"
+    },
+    {
+        "name": "tawky tawny",
+        "url": "https://www.dccomics.com/characters/tawky-tawny"
+    },
+    {
+        "name": "telos",
+        "url": "https://www.dccomics.com/characters/telos"
+    },
+    {
+        "name": "the cheetah",
+        "url": "https://www.dccomics.com/characters/the-cheetah"
+    },
+    {
+        "name": "the flash",
+        "url": "https://www.dccomics.com/characters/the-flash"
+    },
+    {
+        "name": "the phantom stranger",
+        "url": "https://www.dccomics.com/characters/the-phantom-stranger"
+    },
+    {
+        "name": "thomas curry",
+        "url": "https://www.dccomics.com/characters/thomas-curry"
+    },
+    {
+        "name": "titans",
+        "url": "https://www.dccomics.com/characters/titans"
+    },
+    {
+        "name": "trigon",
+        "url": "https://www.dccomics.com/characters/trigon"
+    },
+    {
+        "name": "two-face",
+        "url": "https://www.dccomics.com/characters/two-face"
+    },
+    {
+        "name": "vandal savage",
+        "url": "https://www.dccomics.com/characters/vandal-savage"
+    },
+    {
+        "name": "vixen",
+        "url": "https://www.dccomics.com/characters/vixen"
+    },
+    {
+        "name": "watchmen",
+        "url": "https://www.dccomics.com/characters/watchmen"
+    },
+    {
+        "name": "wizard shazam",
+        "url": "https://www.dccomics.com/characters/wizard-shazam"
+    },
+    {
+        "name": "wonder woman",
+        "url": "https://www.dccomics.com/characters/wonder-woman"
+    }
+]

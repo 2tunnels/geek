@@ -1,6 +1,6 @@
 from random import Random
 
-from geek.providers import MarvelProvider
+from geek.providers import MarvelProvider, DCProvider
 
 
 class TestMarvelProvider:
@@ -15,3 +15,17 @@ class TestMarvelProvider:
 
         assert len(provider.characters) == 1251
         assert provider.get_random_character() == 'doctor-strange'
+
+
+class TestDCProvider:
+    def test_generator(self):
+        provider = DCProvider(Random(1))
+
+        assert len(provider.characters) == 178
+        assert provider.get_random_character() == 'darkseid'
+
+    def test_seed(self):
+        provider = DCProvider(1)
+
+        assert len(provider.characters) == 178
+        assert provider.get_random_character() == 'darkseid'
